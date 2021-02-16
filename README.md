@@ -1,3 +1,2 @@
-# hello-world
-Hello!
+simple python hello-world program
 
